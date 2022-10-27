@@ -1,4 +1,5 @@
-n = int(input()
-print('a' * n)
+n = int(input())
+a = input()
+print(a * n)
 k = int(input())
 print('3' * k)
