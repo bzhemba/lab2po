@@ -1,0 +1,6 @@
+[submodule "klimas"]
+	path = klimas
+	url = git@github.com:Klimenntiy/klimas.git
+[submodule "c-func"]
+	path = c-func
+	url = git@github.com:lipipidronstudy/c-func.git
